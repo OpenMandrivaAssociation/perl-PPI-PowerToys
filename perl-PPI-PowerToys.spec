@@ -8,7 +8,7 @@ Release:	5
 Summary:	A handy collection of small PPI-based utilities
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/PPI/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
